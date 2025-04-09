@@ -1,10 +1,50 @@
 # AI Scientist | Data Scientist |Researcher 
 
 ## EDUCATION 
-Computer Applications , GAN AI PhD
+Computer Applications MCA, BCA, GAN AI PhD
 
 ## Work EXPERIENCE
 Research Scientist in Artificial Intelligence (AI) at Sri Balaji University, Pune Inida 
+This research focuses on developing a GAN-based artificial intelligence model that automatically converts images into descriptive text. The proposed system combines visual understanding and natural language generation to create accurate and meaningful captions for images. Using a hybrid GAN architecture with attention mechanisms and dual discriminators, the model ensures that the generated text is both realistic and contextually aligned with the image content. Evaluated on benchmark datasets, the system outperforms existing methods in generating high-quality image descriptions. The work has practical applications in areas like assistive technology, content automation, and intelligent surveillance, contributing to advancements in multimodal AI.
+
+
+Teaching Assistance for UG/ PG Students                                                                  
+•	Design and Analysis of algorithms   
+•	Knowledge Representation of ML and DL     
+•	RDBMS Using PostgreSQL   
+•	Advanced Database Management   
+Somerville International School, Sec 132, Noida ,      Nov 2017 to April 2020  
+ 	Computer Science Teacher (PGT)  	
+•	Responsible for a passing rate of 100%   
+•	Responsible for developing interactive and interesting lesson plans based on approved curriculum.  
+ Sreenivasa Degree/PG College Anantapur A.P.   June 2016 to April 2017   
+ 	Computer Science Lecturer   	
+•	Teaching computer fundamentals and programming language to students.  
+•	Assigning, assisting, and grading students on computer projects  
+•	Planned and provided computer lessons to students and held practical sessions in the computer laboratory.    
+Jain University, Jain Institute of Business Management, Bangalore Karnataka   2012- 2016
+Head of Department - Computer Sciences,Teaching Computer Subjects , DBMS, DS, DAA, etc.
+Oracle Corporation(InnovaSoft Solutions )Aug 2006 -2009 Aug , Bangalore 
+As Oracle Pl/Sql Deveolper 
+Bulid a differnt models and projects . 
+
+## INTELLECTUAL PROPERTY PATENTS RECEIVED UK , AND INDIA
+•	 India, DATA ANALYSIS DISPLAY DEVICE, Design number 438192-001. Class 14-02 DATA PROCESSING ENQUIPMENT AS WELL AND DEVICES PERIPHERAL APPARATUS AND DEVICE. With Grant, Publication date 17th Jan 2025
+•	UK Advanced Speech Recognition System for Accurately Understanding Regional English Accents. Design Number 6391047 Class 19 –STATIONERY AND OFFICE EQUIPMENT, ARTISTS AND TEACHING MATERIALS. Subclass 07 – TEACHING MATERIALSAND APPARATUS.
+•	UK Indication of Product Device for collecting consumer data. Design Number 6386824 Class 14 - RECORDING, TELECOMMUNICATION OR DATA PROCESSING EQUIPMENT Subclass 02 - DATA PROCESSING EQUIPMENT AS WELL AS PERIPHERAL APPARATUS AND DEVICES. Grant Date / Publication date 10th and 11th September 2024.
+
+##  RESEARCH PAPERS & PUBLICATIONS
+📌 Generating Synthetic Chest X-ray Images for Pneumonia Detection Using Generative Adversarial Networks Conference: International Conference on Emerging Trends in Business Analytics and Management Science (BAMS-ORSI 2024), IIT Bombay 
+📌 Forecasting and Analysing Renewable and Non-Renewable Energy Generation and Demand Patterns Using Machine Learning and Deep Learning Techniques Conference: 2nd International Conference on Innovation, Sustainability, and Applied Sciences (ICISAS 2025), Dubai Police Academy, UAE 
+📌 Attention-Based Deep Learning Models: A Comparative Study of VGG19 and Mobile Net for Chest X-Ray Image 
+Classification Journal: Scientist Report, February 2025 
+📌 Smart Living: The Influence of AI on Daily Activities, Day-To-Day Work, and Lifestyle Conference: ICSSR Conference on India Towards Viksit Bharat @ 2047, 2024 New Delhi 
+
+## CERTIFICATIONS
+ 
+•	Sales Force Certified AI Associate Credential Id 5145532.
+•	 Think AI –A Machine Learning Community Data Science, Machine Learning, Deep Learning, GAN AI using Python.
+ 
 
 -Big Impact of Projects 1 !
 -Big Impact of Project 2 !
