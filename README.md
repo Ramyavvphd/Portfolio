@@ -1,7 +1,26 @@
 # AI Scientist | Data Scientist |Researcher 
 
 ## EDUCATION 
-Computer Applications MCA, BCA, GAN AI PhD
+
+Sri Balaji University, Pune 	Pune, India 
+Ph.D. in Artificial Intelligence (Thesis: Image-to-Text Conversion Using GANs) 	11/2022 - 2025 
+
+Sri Krishnadevaraya University 	ATP , AP, India 
+Master of Computer Applications -83% and Bachelor of Computer Applications -73%	06/2000 - 06/2006
+
+
+
+## Skills
+ 
+Python, 
+Generative Adversarial Networks(GAN), LLMs, NLP , 
+Computer Vision, 
+Prompt Engineering, RAG , 
+PyTorch  Tensor Flow, Keras, 
+XGBoost, PostgreSQL, 
+Lang Chain, Predictive Modelling, 
+Statistical Analysis, Data Visualization Time Series Forecasting.
+
 
 ## Work EXPERIENCE
 Research Scientist in Artificial Intelligence (AI) at Sri Balaji University, Pune Inida 
